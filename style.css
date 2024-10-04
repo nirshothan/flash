@@ -1,0 +1,26 @@
+ <style>
+    body
+    {
+	margin:10;
+	font-family:arial;
+    }
+    .topnav a
+    {
+	fload:center;
+	color:white;
+	text-align:center;
+	padding:14px 77px;
+	text-decoration:none;
+	font-size:100%;
+    }
+    .topnav a:hover
+    {
+	background-color:#ddd;
+	color:black;
+    }
+    .topnav a.active
+    {
+	background-color:198691;
+	color:#E5E4E2;
+    }
+  </style>
